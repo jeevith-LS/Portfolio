@@ -1,0 +1,346 @@
+{
+  "projects": [
+    {
+      "id": "nexus-ai-orchestrator",
+      "title": "Nexus AI Orchestrator",
+      "tagline": "Multi-Agent Autonomous Workflow Engine with Real-Time Observability",
+      "description": "An enterprise-grade autonomous agent platform orchestrating LLM chains, tool invocations, distributed worker tasks, and automated failover pipelines with streaming telemetry.",
+      "category": "AI & ML",
+      "tags": [
+        "Next.js 15",
+        "TypeScript",
+        "Python",
+        "FastAPI",
+        "Redis",
+        "WebSockets",
+        "OpenAI"
+      ],
+      "metrics": "99.98% pipeline uptime • 150k+ jobs processed",
+      "liveUrl": "https://github.com",
+      "githubUrl": "https://github.com",
+      "featured": true,
+      "architectureDetails": "Event-driven pub/sub architecture built atop Redis Streams and WebSocket workers, serving low-latency interactive agent chat and autonomous task execution.",
+      "imageColor": "from-cyan-500/20 to-blue-600/30",
+      "createdAt": "2026-03-15"
+    },
+    {
+      "id": "cyber-vault-cloud",
+      "title": "CyberVault Zero-Trust Storage",
+      "tagline": "End-to-End Encrypted Cloud Storage & Decentralized Key Management",
+      "description": "A zero-knowledge cryptographic cloud drive utilizing client-side AES-256-GCM encryption, granular IAM access control lists, and instant chunked uploads.",
+      "category": "Full-Stack",
+      "tags": [
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "WebCrypto API",
+        "Docker",
+        "AWS S3",
+        "TailwindCSS"
+      ],
+      "metrics": "End-to-End Encrypted • Zero Data Exposure",
+      "liveUrl": "https://github.com",
+      "githubUrl": "https://github.com",
+      "featured": true,
+      "architectureDetails": "Client-side key derivation via Argon2id, cryptographic chunk hashing, and presigned multipart S3 pipelines with automated virus scanning.",
+      "imageColor": "from-emerald-500/20 to-teal-600/30",
+      "createdAt": "2026-01-20"
+    },
+    {
+      "id": "hyper-metric-dashboard",
+      "title": "HyperMetric Real-Time Telemetry",
+      "tagline": "High-Throughput Distributed Microservices Metrics Visualizer",
+      "description": "A full-stack monitoring and alerting dashboard capable of ingesting 50,000+ metric data points/sec with customizable Grafana-style drag-and-drop widgets.",
+      "category": "Cloud & DevOps",
+      "tags": [
+        "Next.js",
+        "Go",
+        "TimescaleDB",
+        "Kafka",
+        "Chart.js",
+        "Kubernetes"
+      ],
+      "metrics": "< 15ms query latency • 50k+ metrics/sec",
+      "liveUrl": "https://github.com",
+      "githubUrl": "https://github.com",
+      "featured": true,
+      "architectureDetails": "Time-series hypertable partitioning, sliding window aggregation queries, and dynamic SVG chart renderers with auto-downsampling.",
+      "imageColor": "from-purple-500/20 to-indigo-600/30",
+      "createdAt": "2025-11-10"
+    },
+    {
+      "id": "synth-terminal-cli",
+      "title": "SynthWave CLI & Developer Toolchain",
+      "tagline": "Cross-Platform Developer CLI for Instant Microservice Scaffolding",
+      "description": "A high-performance command line tool powering automated repository bootstrapping, CI/CD pipeline synthesis, and container security audits.",
+      "category": "Tools & Systems",
+      "tags": [
+        "Rust",
+        "TypeScript",
+        "Node.js CLI",
+        "GitHub Actions",
+        "Docker"
+      ],
+      "metrics": "12,000+ npm downloads • 450+ GitHub Stars",
+      "liveUrl": "https://github.com",
+      "githubUrl": "https://github.com",
+      "featured": false,
+      "architectureDetails": "Modular plugin architecture with native Rust bindings, interactive curses terminal interface, and zero-config deployment generators.",
+      "imageColor": "from-pink-500/20 to-rose-600/30",
+      "createdAt": "2025-09-05"
+    },
+    {
+      "id": "pulse-mobile-pay",
+      "title": "Pulse Web3 & Fiat SuperApp",
+      "tagline": "Next-Gen Mobile-First Cross-Border Payments & Staking Wallet",
+      "description": "Seamless cross-border payment application combining instant biometric authentication, multi-currency ledger, and real-time conversion rates.",
+      "category": "Mobile",
+      "tags": [
+        "React Native",
+        "Expo",
+        "Node.js",
+        "PostgreSQL",
+        "Stripe API",
+        "Web3"
+      ],
+      "metrics": "Sub-second settlement • 4.9 App Store Rating",
+      "liveUrl": "https://github.com",
+      "githubUrl": "https://github.com",
+      "featured": false,
+      "architectureDetails": "Optimistic UI state synchronization, biometric key store integration, and resilient offline queueing with exponential backoff.",
+      "imageColor": "from-amber-500/20 to-orange-600/30",
+      "createdAt": "2025-06-18"
+    },
+    {
+      "id": "aura-design-system",
+      "title": "Aura Cyber Design System",
+      "tagline": "Accessible, Accessible Dark-First UI Component Library & Token Suite",
+      "description": "A comprehensive enterprise design kit featuring 60+ accessible cyber-styled UI components, tokens, micro-interactions, and sound synthesizers.",
+      "category": "Full-Stack",
+      "tags": [
+        "React",
+        "TypeScript",
+        "TailwindCSS",
+        "Radix UI",
+        "Storybook",
+        "Framer Motion"
+      ],
+      "metrics": "100% WCAG 2.1 AA Compliant • Zero Runtime Overhead",
+      "liveUrl": "https://github.com",
+      "githubUrl": "https://github.com",
+      "featured": true,
+      "architectureDetails": "Atomic token architecture, compound component patterns, keyboard accessibility primitives, and polymorphic ref forwarding.",
+      "imageColor": "from-violet-500/20 to-fuchsia-600/30",
+      "createdAt": "2025-04-12"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Frontend Engineering",
+      "icon": "Layout",
+      "skills": [
+        {
+          "name": "React.js / Next.js 15 (App Router)",
+          "level": 96,
+          "experience": "4+ Years",
+          "highlight": true,
+          "badge": "Core"
+        },
+        {
+          "name": "TypeScript / Modern ES6+",
+          "level": 94,
+          "experience": "4+ Years",
+          "highlight": true,
+          "badge": "Core"
+        },
+        {
+          "name": "Tailwind CSS / CSS Modules / Animations",
+          "level": 95,
+          "experience": "4+ Years",
+          "highlight": true
+        },
+        {
+          "name": "State Management (Zustand, Redux, Context)",
+          "level": 90,
+          "experience": "3+ Years"
+        },
+        {
+          "name": "Web Performance & CWV Optimization",
+          "level": 88,
+          "experience": "3+ Years"
+        }
+      ]
+    },
+    {
+      "title": "Backend & APIs",
+      "icon": "Server",
+      "skills": [
+        {
+          "name": "Node.js / Express.js / NestJS",
+          "level": 92,
+          "experience": "4+ Years",
+          "highlight": true,
+          "badge": "Core"
+        },
+        {
+          "name": "RESTful API & GraphQL Design",
+          "level": 90,
+          "experience": "4+ Years"
+        },
+        {
+          "name": "Python (FastAPI / Flask / Django)",
+          "level": 85,
+          "experience": "3+ Years"
+        },
+        {
+          "name": "Serverless Functions & Microservices",
+          "level": 88,
+          "experience": "3+ Years"
+        },
+        {
+          "name": "WebSockets & Real-time PubSub",
+          "level": 86,
+          "experience": "2+ Years"
+        }
+      ]
+    },
+    {
+      "title": "Databases & Storage",
+      "icon": "Database",
+      "skills": [
+        {
+          "name": "PostgreSQL / MySQL / SQLite",
+          "level": 92,
+          "experience": "4+ Years",
+          "highlight": true,
+          "badge": "Core"
+        },
+        {
+          "name": "MongoDB / Mongoose / NoSQL",
+          "level": 88,
+          "experience": "3+ Years"
+        },
+        {
+          "name": "Prisma ORM / Drizzle / TypeORM",
+          "level": 90,
+          "experience": "3+ Years"
+        },
+        {
+          "name": "Redis (Caching & Message Queues)",
+          "level": 84,
+          "experience": "2+ Years"
+        }
+      ]
+    },
+    {
+      "title": "Cloud, DevOps & Tools",
+      "icon": "Cpu",
+      "skills": [
+        {
+          "name": "Docker / Containerization",
+          "level": 88,
+          "experience": "3+ Years",
+          "highlight": true
+        },
+        {
+          "name": "Git / GitHub CI/CD Actions",
+          "level": 94,
+          "experience": "4+ Years",
+          "badge": "Core"
+        },
+        {
+          "name": "Vercel / Netlify / AWS / Heroku Deployments",
+          "level": 92,
+          "experience": "4+ Years"
+        },
+        {
+          "name": "Linux / Bash Scripting & Automation",
+          "level": 86,
+          "experience": "3+ Years"
+        }
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp-1",
+      "role": "Lead Full-Stack Engineer",
+      "company": "NeoTech Innovations",
+      "period": "2024 — Present",
+      "location": "San Francisco, CA (Remote)",
+      "featuredBadge": "Current Role",
+      "description": [
+        "Architected scalable Next.js and Node.js microservices handling 2M+ monthly active requests.",
+        "Reduced initial page load latency by 48% via server-driven streaming and edge caching.",
+        "Mentored a team of 6 engineers and spearheaded automated CI/CD security scanning."
+      ],
+      "techStack": [
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "Docker",
+        "AWS"
+      ]
+    },
+    {
+      "id": "exp-2",
+      "role": "Full-Stack Software Developer",
+      "company": "CyberPulse Solutions",
+      "period": "2022 — 2024",
+      "location": "Boston, MA",
+      "description": [
+        "Engineered interactive real-time data visualizers and dynamic dashboard APIs.",
+        "Implemented robust JWT/OAuth2 authentication and role-based access management.",
+        "Built automated test suites achieving 92% code coverage across critical financial workflows."
+      ],
+      "techStack": [
+        "React",
+        "Express.js",
+        "MongoDB",
+        "Redis",
+        "TailwindCSS",
+        "Jest"
+      ]
+    },
+    {
+      "id": "exp-3",
+      "role": "Software Engineering Intern",
+      "company": "AlphaCode Labs",
+      "period": "2021 — 2022",
+      "location": "Austin, TX",
+      "description": [
+        "Developed reusable component libraries and integrated third-party RESTful APIs.",
+        "Assisted in migrating legacy monolithic endpoints to modern serverless cloud functions."
+      ],
+      "techStack": [
+        "JavaScript",
+        "HTML5/CSS3",
+        "Node.js",
+        "MySQL",
+        "Git"
+      ]
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-welcome-1",
+      "name": "Sarah Chen (Tech Lead)",
+      "email": "sarah.chen@innovatetech.io",
+      "subject": "Senior Full-Stack Opportunity",
+      "message": "Hey Jeevith, saw your impressive portfolio and AI project work. Would love to connect regarding an exciting engineering leadership role on our team!",
+      "createdAt": "2026-10-03T18:41:20.128Z",
+      "read": true
+    },
+    {
+      "id": "msg-welcome-2",
+      "name": "Marcus Vance (Founder)",
+      "email": "marcus@synthlabs.dev",
+      "subject": "Consulting & SaaS Architecture Project",
+      "message": "Hi! We are looking for an expert full-stack architect to design our high-throughput analytics pipeline. Let us discuss availability for Q2.",
+      "createdAt": "2026-10-04T18:41:20.128Z",
+      "read": false
+    }
+  ],
+  "visitorCount": 1444
+}
